@@ -1,0 +1,2 @@
+('zovi13042014', 'http://zovi.com/mens-bottoms?misc_ref_code=hp_seo_text', 'Men', 'BOTTOMS')
+('zovi13042014', 'http://zovi.com/womens-bottoms?misc_ref_code=hp_seo_text', 'Women', 'BOTTOMS')
